@@ -79,23 +79,31 @@ h1{
 /*This is My About pages style End*/
 
 /*This is My Recipies  style Start*/
+#our-recip{
+padding-left: 50px;
+
+
+
+}
 .Recipie-card-title{
   text-align: center;
   padding-bottom: 10px;
 
+
 }
 .card{
-width: 400px;
+width: 29%;
 margin: 20px;
 box-sizing: border-box;
 box-shadow:10px 10px 40px gray;;
 border-radius: 20px;
+padding: 20px;
 
 }
 .img-style{
 
   width: 100%;
-  border-radius: 10px;
+  border-radius: 20px;
   box-shadow:10px 10px 40px gray;;
   
 }
@@ -104,7 +112,7 @@ padding: 5px;
 }
 .card-title{
 
- font-size: 2rem;
+ font-size: 20px;
 }
 .card-title h3{
         text-align: left;
@@ -126,7 +134,7 @@ padding: 5px;
 .follower-contant{
   box-sizing: border-box;
   box-shadow: 10px 10px 40px saddlebrown;
-  margin-left: 100px;
+  margin-left: 70px;
   margin-right: 100px;
   margin-top: 30px;
   display: flex;
@@ -139,39 +147,24 @@ padding: 5px;
  font-weight: 700;
  font-size: 40px;
 }
-.Youtube-Subscribers{
-  width: 35%;
+.follower-1{
+width: 33%;
 padding-left: 100px;
 padding-top: 10px;
 }
-.Youtube-Subscribers h2{
+.follower-1 h2{
         text-align: center;
         width: 35%;
 }
-.Instagram-Followers{
-  width: 35%;
-  padding-top: 10pxpx;
-}
-.Instagram-Followers h2{
-   text-align: center;
-   width: 35%;
-}
-.Dribbble-Shot-Likes{
-  width: 33%;
-  padding-right: 50px;
-  padding-top: 10px;
-}
-.Dribbble-Shot-Likes h2{
-text-align: center;
-width: 33%;
 
-}
+
+
 /* This is social media pages style Start */
 
 
 /* This is footer style Start */
 .footer-contint{
-        background-color: rgb(153, 153, 233);;
+        background-color: rgb(118, 118, 224);
         padding: 5px 5px;
         width: 100%;
         height: 200px;
