@@ -1,0 +1,190 @@
+/*This is My body -page-style Start*/
+body{
+margin: 0;
+font-family: 'Poppins', sans-serif;
+
+
+}
+/*This is My body page-style End*/
+
+
+/*This is My Home -page-style Start*/
+h1{
+  font-size: 50px;
+
+
+}
+.food-title{
+  color: #FD5131;
+
+}
+.home{
+   display: flex;
+   margin-bottom: 100px;
+   background-color: rgb(153, 153, 233);
+
+}
+.heding-title{
+    width: 50%;
+    padding-left: 50px;
+    padding-top: 100px;
+.heding-title img{
+
+ width: 80%;
+
+}
+
+
+}
+.button-design{
+    text-decoration: none;
+    background-image: linear-gradient(#f52804, #fd6709 );
+    border-radius: 25px;
+    font-weight: 700;
+    color: #ffff;
+    padding: 10px 40px;
+
+
+
+}
+/*This is My Home -page-style End*/
+
+
+/*This is My About page style Start*/
+#about{
+  margin-right: 2px;
+  padding-top: 200px;
+  padding-right: 25px;
+  padding-bottom: 100px;
+  display: flex;
+  background-image: url(images/7.png);
+  text-align: justify;
+
+}
+.about-home{
+  width: 50%;
+}
+.about-img{
+  width: 80%;
+  padding-left: 100px;
+  padding-bottom: 100px;
+  
+}
+.about-hedder{
+
+ color: blueviolet;
+
+}
+
+/*This is My About pages style End*/
+
+/*This is My Recipies  style Start*/
+.Recipie-card-title{
+  text-align: center;
+  padding-bottom: 10px;
+
+}
+.card{
+width: 400px;
+margin: 20px;
+box-sizing: border-box;
+box-shadow:10px 10px 40px gray;;
+border-radius: 20px;
+
+}
+.img-style{
+
+  width: 100%;
+  border-radius: 10px;
+  box-shadow:10px 10px 40px gray;;
+  
+}
+.card-body{
+padding: 5px;
+}
+.card-title{
+
+ font-size: 2rem;
+}
+.card-title h3{
+        text-align: left;
+}
+.card-title p{
+       text-align: left;
+}
+.card-paragrap{
+       text-align: justify;
+}
+.card-containers{
+  box-sizing:border-box;
+  display: flex;
+}
+
+/* This is My Recipies  style End */
+
+/* This is social media pages style Start */
+.follower-contant{
+  box-sizing: border-box;
+  box-shadow: 10px 10px 40px saddlebrown;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 30px;
+  display: flex;
+  height: 200px;
+  width: 90%;
+  border-radius: 10px;
+}
+
+.follower-contant h2{
+ font-weight: 700;
+ font-size: 40px;
+}
+.Youtube-Subscribers{
+  width: 35%;
+padding-left: 100px;
+padding-top: 10px;
+}
+.Youtube-Subscribers h2{
+        text-align: center;
+        width: 35%;
+}
+.Instagram-Followers{
+  width: 35%;
+  padding-top: 10pxpx;
+}
+.Instagram-Followers h2{
+   text-align: center;
+   width: 35%;
+}
+.Dribbble-Shot-Likes{
+  width: 33%;
+  padding-right: 50px;
+  padding-top: 10px;
+}
+.Dribbble-Shot-Likes h2{
+text-align: center;
+width: 33%;
+
+}
+/* This is social media pages style Start */
+
+
+/* This is footer style Start */
+.footer-contint{
+        background-color: rgb(153, 153, 233);;
+        padding: 5px 5px;
+        width: 100%;
+        height: 200px;
+        margin-top: 50px;
+}
+.foter-title{
+  text-align: center;
+  padding-top: 50px;
+  color: rgb(8, 32, 247);
+}
+
+.fotter-name-title-color{
+             color: rgb(243, 7, 211);
+             font-weight: 700;
+}
+/* This is footer style End */
